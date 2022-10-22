@@ -1,0 +1,51 @@
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\bin\Debug\OtobüsBilet.exe.config
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\bin\Debug\OtobüsBilet.exe
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\bin\Debug\OtobüsBilet.pdb
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.csprojResolveAssemblyReference.cache
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.Properties.Resources.resources
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.csproj.GenerateResource.Cache
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.exe
+c:\users\emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.pdb
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.BiletCiktisi.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.BiletAlmaEkrani.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.GirisEkrani.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.PersonelKayit.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.MusteriEkrani.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.Biletler.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.Seferler.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.AracEkle.resources
+C:\Users\Emrullah1876\documents\visual studio 2015\Projects\OtobüsBilet\OtobüsBilet\obj\Debug\OtobüsBilet.YoneticiGiris.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.exe.config
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.exe
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.pdb
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.exe
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.pdb
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.AracEkle.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.BiletCiktisi.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.BiletAlmaEkrani.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Biletler.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.GirisEkrani.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.MusteriEkrani.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.PersonelKayit.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Properties.Resources.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Seferler.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.YoneticiGiris.resources
+C:\Users\Emrullah1876\Desktop\Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.csproj.GenerateResource.Cache
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.exe.config
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.exe
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.pdb
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.exe
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\bin\Debug\OtobüsBilet.pdb
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.AracEkle.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.BiletCiktisi.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.BiletAlmaEkrani.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Biletler.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.GirisEkrani.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.MusteriEkrani.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.PersonelKayit.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Properties.Resources.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.Seferler.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.YoneticiGiris.resources
+C:\Users\Emrullah1876\Desktop\[Basit] Otobüs Bilet Otomasyonu\Kodlar\OtobüsBilet\obj\Debug\OtobüsBilet.csproj.GenerateResource.Cache
